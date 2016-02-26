@@ -6762,4 +6762,8 @@ button.close {
 body {
   padding: 65px;
 }
+
+.content {
+  width:500px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
